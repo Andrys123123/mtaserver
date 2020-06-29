@@ -886,3 +886,55 @@ debuguptime              sfakelag
 [2020-06-29 21:36:22] To stop the server, type 'shutdown' or press Ctrl-C
 [2020-06-29 21:36:22] Type 'help' for a list of commands.
 [2020-06-29 21:36:23] Querying MTA master server... success! (Auto detected IP:77.110.128.149)
+[2020-06-29 21:44:36] Server minclientversion is now 1.5.7-9.20447.0
+[2020-06-29 21:44:36] CONNECT: AndrasKollega connected (IP: 127.0.0.1  Serial: 5CA85CAD1F8C73BBF6399A40003656E3  Version: 1.5.7-9.20447.3)
+[2020-06-29 21:44:37] JOIN: AndrasKollega joined the game (IP: 127.0.0.1)
+[2020-06-29 21:44:45] WARNING: players\authentication.lua:55: Bad argument @ 'getAccountData' [Expected account at argument 1, got boolean]
+[2020-06-29 21:44:45] WARNING: players\authentication.lua:56: Bad argument @ 'passwordVerify' [Expected string at argument 2, got boolean]
+[2020-06-29 21:48:42] restart: Requested by Console
+[2020-06-29 21:48:42] restart: Resource restarting...
+[2020-06-29 21:48:42] Stopping players
+[2020-06-29 21:48:42] Resource 'players' changed, reloading and starting
+[2020-06-29 21:48:42] Starting players
+[2020-06-29 21:48:42] players restarted successfully
+[2020-06-29 21:48:51] LOGIN: AndrasKollega tried to log in as 'asd' (Unknown account) (IP: 127.0.0.1  Serial: 5CA85CAD1F8C73BBF6399A40003656E3)
+[2020-06-29 21:48:58] WARNING: players\authentication.lua:55: Bad argument @ 'getAccountData' [Expected account at argument 1, got boolean]
+[2020-06-29 21:48:58] WARNING: players\authentication.lua:56: Bad argument @ 'passwordVerify' [Expected string at argument 2, got boolean]
+[2020-06-29 21:55:08] restart: Requested by Console
+[2020-06-29 21:55:08] restart: Resource restarting...
+[2020-06-29 21:55:08] Stopping players
+[2020-06-29 21:55:08] Resource 'players' changed, reloading and starting
+[2020-06-29 21:55:08] Starting players
+[2020-06-29 21:55:08] players restarted successfully
+[2020-06-29 21:55:11] WARNING: players\authentication.lua:55: Bad argument @ 'getAccountData' [Expected account at argument 1, got boolean]
+[2020-06-29 21:55:17] WARNING: players\authentication.lua:56: Bad argument @ 'passwordVerify' [Expected string at argument 2, got boolean]
+[2020-06-29 21:56:41] restart: Requested by Console
+[2020-06-29 21:56:41] restart: Resource restarting...
+[2020-06-29 21:56:41] Stopping players
+[2020-06-29 21:56:41] Resource 'players' changed, reloading and starting
+[2020-06-29 21:56:41] Starting players
+[2020-06-29 21:56:41] players restarted successfully
+[2020-06-29 21:58:33] restart: Requested by Console
+[2020-06-29 21:58:33] restart: Resource restarting...
+[2020-06-29 21:58:33] Stopping players
+[2020-06-29 21:58:33] Resource 'players' changed, reloading and starting
+[2020-06-29 21:58:33] Starting players
+[2020-06-29 21:58:33] players restarted successfully
+[2020-06-29 21:59:09] LOGIN: (Everyone) AndrasKollega successfully logged in as 'test' (IP: 127.0.0.1  Serial: 5CA85CAD1F8C73BBF6399A40003656E3)
+[2020-06-29 22:00:10] restart: Requested by Console
+[2020-06-29 22:00:10] restart: Resource restarting...
+[2020-06-29 22:00:10] Stopping players
+[2020-06-29 22:00:10] Resource 'players' changed, reloading and starting
+[2020-06-29 22:00:10] Starting players
+[2020-06-29 22:00:10] players restarted successfully
+[2020-06-29 22:00:24] LOGOUT: AndrasKollega logged out as 'test'
+[2020-06-29 22:00:39] LOGIN: (Everyone) AndrasKollega successfully logged in as 'test' (IP: 127.0.0.1  Serial: 5CA85CAD1F8C73BBF6399A40003656E3)
+[2020-06-29 22:00:41] LOGOUT: AndrasKollega logged out as 'test'
+[2020-06-29 22:01:29] restart: Requested by Console
+[2020-06-29 22:01:29] restart: Resource restarting...
+[2020-06-29 22:01:29] Stopping players
+[2020-06-29 22:01:29] Resource 'players' changed, reloading and starting
+[2020-06-29 22:01:29] Starting players
+[2020-06-29 22:01:29] players restarted successfully
+[2020-06-29 22:01:32] LOGIN: (Everyone) AndrasKollega successfully logged in as 'test' (IP: 127.0.0.1  Serial: 5CA85CAD1F8C73BBF6399A40003656E3)
+[2020-06-29 22:01:34] LOGOUT: AndrasKollega logged out as 'test'
