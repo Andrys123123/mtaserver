@@ -1,0 +1,521 @@
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..MTASA 1.5.7/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-06-28 16:07:00] Compacting accounts database 'internal.db' ...
+[2020-06-28 16:07:02] Resources: 192 loaded, 0 failed
+[2020-06-28 16:07:02] Compacting database 'registry.db' ...
+[2020-06-28 16:07:02] Starting resources...
+[2020-06-28 16:07:02] Server minclientversion is now 1.3.0-9.04311
+[2020-06-28 16:07:03] Server minclientversion is now 1.5.6-9.16362
+[2020-06-28 16:07:03] Gamemode 'play' started.
+[2020-06-28 16:07:03] Querying MTA master server... success! (Auto detected IP:77.110.130.125)
+[2020-06-28 16:07:03] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-06-28 16:07:03] WARNING: <owner_email_address> not set
+[2020-06-28 16:07:03] Server started and is ready to accept connections!
+[2020-06-28 16:07:03] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-06-28 16:07:03] Type 'help' for a list of commands.
+[2020-06-28 16:07:09] Server minclientversion is now 1.5.7-9.20447.0
+[2020-06-28 16:07:09] CONNECT: AndrasKollega connected (IP: 192.168.0.103  Serial: 5CA85CAD1F8C73BBF6399A40003656E3  Version: 1.5.7-9.20447.3)
+[2020-06-28 16:07:09] JOIN: AndrasKollega joined the game (IP: 192.168.0.103)
+[2020-06-28 16:07:16] ADMIN: AndrasKollega registered account 'AndrasKollega' (IP: 192.168.0.103  Serial: 5CA85CAD1F8C73BBF6399A40003656E3)
+[2020-06-28 16:07:21] LOGIN: AndrasKollega tried to log in as 'AndrasKollega' with an invalid password (IP: 192.168.0.103  Serial: 5CA85CAD1F8C73BBF6399A40003656E3)
+[2020-06-28 16:07:26] LOGIN: (Everyone) AndrasKollega successfully logged in as 'AndrasKollega' (IP: 192.168.0.103  Serial: 5CA85CAD1F8C73BBF6399A40003656E3)
+[2020-06-28 16:07:32] QUIT: AndrasKollega left the game [Quit]
+[2020-06-28 16:07:37] Server stopped!
+[2020-06-28 16:07:37] Stopping resources.......................
+[2020-06-28 16:07:37] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : teszt123
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..MTASA 1.5.7/mods/deathmatch/logs/server.log
+= Maximum players  : 10
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-06-28 16:19:16] Resources: 1 loaded, 0 failed
+[2020-06-28 16:19:16] Starting resources....
+[2020-06-28 16:19:16] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-06-28 16:19:16] Server started and is ready to accept connections!
+[2020-06-28 16:19:16] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-06-28 16:19:16] Type 'help' for a list of commands.
+[2020-06-28 16:19:16] Querying MTA master server... success! (Auto detected IP:77.110.130.125)
+[2020-06-28 16:19:27] Server minclientversion is now 1.5.7-9.20447.0
+[2020-06-28 16:19:28] CONNECT: AndrasKollega connected (IP: 192.168.0.103  Serial: 5CA85CAD1F8C73BBF6399A40003656E3  Version: 1.5.7-9.20447.3)
+[2020-06-28 16:19:28] JOIN: AndrasKollega joined the game (IP: 192.168.0.103)
+[2020-06-28 16:19:54] QUIT: AndrasKollega left the game [Quit]
+[2020-06-28 16:19:59] CONNECT: AndrasKollega connected (IP: 192.168.0.103  Serial: 5CA85CAD1F8C73BBF6399A40003656E3  Version: 1.5.7-9.20447.3)
+[2020-06-28 16:19:59] JOIN: AndrasKollega joined the game (IP: 192.168.0.103)
+[2020-06-28 16:20:27] QUIT: AndrasKollega left the game [Quit]
+[2020-06-28 16:20:32] Server stopped!
+[2020-06-28 16:20:32] Stopping resources....
+[2020-06-28 16:20:32] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : teszt123
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..MTASA 1.5.7/mods/deathmatch/logs/server.log
+= Maximum players  : 10
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-06-28 16:21:45] Resources: 1 loaded, 0 failed
+[2020-06-28 16:21:45] Starting resources....
+[2020-06-28 16:21:45] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-06-28 16:21:45] Server started and is ready to accept connections!
+[2020-06-28 16:21:45] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-06-28 16:21:45] Type 'help' for a list of commands.
+[2020-06-28 16:21:46] Querying MTA master server... success! (Auto detected IP:77.110.130.125)
+[2020-06-28 16:22:03] Server minclientversion is now 1.5.7-9.20447.0
+[2020-06-28 16:22:03] CONNECT: AndrasKollega connected (IP: 192.168.0.103  Serial: 5CA85CAD1F8C73BBF6399A40003656E3  Version: 1.5.7-9.20447.3)
+[2020-06-28 16:22:03] JOIN: AndrasKollega joined the game (IP: 192.168.0.103)
+[2020-06-28 16:22:14] LOGIN: (Everyone) AndrasKollega successfully logged in as 'AndrasKollega' (IP: 192.168.0.103  Serial: 5CA85CAD1F8C73BBF6399A40003656E3)
+[2020-06-28 16:24:35] Server stopped!
+[2020-06-28 16:24:35] Stopping resources....
+[2020-06-28 16:24:35] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : teszt123
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..MTASA 1.5.7/mods/deathmatch/logs/server.log
+= Maximum players  : 10
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-06-28 16:24:51] Resources: 1 loaded, 0 failed
+[2020-06-28 16:24:51] Starting resources....
+[2020-06-28 16:24:51] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-06-28 16:24:51] Server started and is ready to accept connections!
+[2020-06-28 16:24:51] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-06-28 16:24:51] Type 'help' for a list of commands.
+[2020-06-28 16:24:51] Querying MTA master server... success! (Auto detected IP:77.110.130.125)
+[2020-06-28 16:24:57] Server minclientversion is now 1.5.7-9.20447.0
+[2020-06-28 16:24:57] CONNECT: AndrasKollega connected (IP: 127.0.0.1  Serial: 5CA85CAD1F8C73BBF6399A40003656E3  Version: 1.5.7-9.20447.3)
+[2020-06-28 16:24:57] JOIN: AndrasKollega joined the game (IP: 127.0.0.1)
+[2020-06-28 16:25:09] QUIT: AndrasKollega left the game [Quit]
+[2020-06-28 16:25:18] Server stopped!
+[2020-06-28 16:25:18] Stopping resources....
+[2020-06-28 16:25:18] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : teszt123
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..MTASA 1.5.7/mods/deathmatch/logs/server.log
+= Maximum players  : 10
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-06-28 16:25:40] Resources: 1 loaded, 0 failed
+[2020-06-28 16:25:40] Starting resources....
+[2020-06-28 16:25:40] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-06-28 16:25:40] Server started and is ready to accept connections!
+[2020-06-28 16:25:40] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-06-28 16:25:40] Type 'help' for a list of commands.
+[2020-06-28 16:25:41] Querying MTA master server... success! (Auto detected IP:77.110.130.125)
+[2020-06-28 16:25:47] Server minclientversion is now 1.5.7-9.20447.0
+[2020-06-28 16:25:47] CONNECT: AndrasKollega connected (IP: 192.168.0.103  Serial: 5CA85CAD1F8C73BBF6399A40003656E3  Version: 1.5.7-9.20447.3)
+[2020-06-28 16:25:47] JOIN: AndrasKollega joined the game (IP: 192.168.0.103)
+[2020-06-28 16:26:13] LOGIN: (Everyone) AndrasKollega successfully logged in as 'AndrasKollega' (IP: 192.168.0.103  Serial: 5CA85CAD1F8C73BBF6399A40003656E3)
+[2020-06-28 16:33:29] New resource 'vehicles' loaded
+[2020-06-28 16:33:29] Resources: 2 loaded, 0 failed
+[2020-06-28 16:33:42] start: Requested by Console
+[2020-06-28 16:33:42] Starting vehicles
+[2020-06-28 16:33:42] start: Resource 'vehicles' started
+[2020-06-28 16:34:27] stop: Requested by Console
+[2020-06-28 16:34:27] stop: Resource stopping
+[2020-06-28 16:34:27] Stopping vehicles
+[2020-06-28 16:39:33] start: Requested by Console
+[2020-06-28 16:39:33] Resource 'vehicles' changed, reloading and starting
+[2020-06-28 16:39:33] Starting vehicles
+[2020-06-28 16:39:33] start: Resource 'vehicles' started
+[2020-06-28 16:40:45] stop: Requested by Console
+[2020-06-28 16:40:45] stop: Resource stopping
+[2020-06-28 16:40:45] Stopping vehicles
+[2020-06-28 16:40:50] start: Requested by Console
+[2020-06-28 16:40:50] Resource 'vehicles' changed, reloading and starting
+[2020-06-28 16:40:50] Starting vehicles
+[2020-06-28 16:40:50] start: Resource 'vehicles' started
+[2020-06-28 16:41:39] * Syntax: stop <resource-name>
+[2020-06-28 16:41:45] stop: Resource could not be found
+[2020-06-28 16:41:57] stop: Requested by Console
+[2020-06-28 16:41:57] stop: Resource stopping
+[2020-06-28 16:41:57] Stopping vehicles
+[2020-06-28 16:42:05] start: Requested by Console
+[2020-06-28 16:42:05] Starting vehicles
+[2020-06-28 16:42:05] start: Resource 'vehicles' started
+[2020-06-28 16:46:30] stop: Requested by Console
+[2020-06-28 16:46:30] stop: Resource stopping
+[2020-06-28 16:46:30] Stopping vehicles
+[2020-06-28 16:46:34] start: Requested by Console
+[2020-06-28 16:46:34] Resource 'vehicles' changed, reloading and starting
+[2020-06-28 16:46:34] Starting vehicles
+[2020-06-28 16:46:34] start: Resource 'vehicles' started
+[2020-06-28 16:46:54] stop: Requested by Console
+[2020-06-28 16:46:54] stop: Resource stopping
+[2020-06-28 16:46:54] Stopping vehicles
+[2020-06-28 16:47:09] start: Requested by Console
+[2020-06-28 16:47:09] Starting vehicles
+[2020-06-28 16:47:09] start: Resource 'vehicles' started
+[2020-06-28 16:50:14] stop: Requested by Console
+[2020-06-28 16:50:14] stop: Resource stopping
+[2020-06-28 16:50:14] Stopping vehicles
+[2020-06-28 16:51:52] QUIT: AndrasKollega left the game [Quit]
+[2020-06-28 16:55:21] CONNECT: AndrasKollega connected (IP: 192.168.0.103  Serial: 5CA85CAD1F8C73BBF6399A40003656E3  Version: 1.5.7-9.20447.3)
+[2020-06-28 16:55:21] JOIN: AndrasKollega joined the game (IP: 192.168.0.103)
+[2020-06-28 16:55:41] start: Requested by Console
+[2020-06-28 16:55:41] Resource 'vehicles' changed, reloading and starting
+[2020-06-28 16:55:41] Starting vehicles
+[2020-06-28 16:55:41] start: Resource 'vehicles' started
+[2020-06-28 17:17:57] stop: Requested by Console
+[2020-06-28 17:17:57] stop: Resource stopping
+[2020-06-28 17:17:57] Stopping vehicles
+[2020-06-28 17:18:01] New resource 'db' loaded
+[2020-06-28 17:18:01] Resources: 3 loaded, 0 failed
+[2020-06-28 17:19:51] Server stopped!
+[2020-06-28 17:19:51] Stopping resources....
+[2020-06-28 17:19:51] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : teszt123
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..MTASA 1.5.7/mods/deathmatch/logs/server.log
+= Maximum players  : 10
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-06-28 17:19:57] Resources: 3 loaded, 0 failed
+[2020-06-28 17:19:57] Starting resources......
+[2020-06-28 17:19:57] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-06-28 17:19:57] Server started and is ready to accept connections!
+[2020-06-28 17:19:57] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-06-28 17:19:57] Type 'help' for a list of commands.
+[2020-06-28 17:19:58] Querying MTA master server... success! (Auto detected IP:77.110.130.125)
+[2020-06-28 17:20:13] Server minclientversion is now 1.5.7-9.20447.0
+[2020-06-28 17:20:13] CONNECT: AndrasKollega connected (IP: 127.0.0.1  Serial: 5CA85CAD1F8C73BBF6399A40003656E3  Version: 1.5.7-9.20447.3)
+[2020-06-28 17:20:13] JOIN: AndrasKollega joined the game (IP: 127.0.0.1)
+[2020-06-28 17:20:20] WARNING: vehicles\vehicles.lua:8: dbExec failed; (1) no such table: vehicles
+[2020-06-28 17:31:05] restart: Requested by Console
+[2020-06-28 17:31:05] restart: Resource restarting...
+[2020-06-28 17:31:05] Stopping vehicles
+[2020-06-28 17:31:05] Resource 'vehicles' changed, reloading and starting
+[2020-06-28 17:31:05] Starting vehicles
+[2020-06-28 17:31:05] WARNING: vehicles\vehicles.lua:33: Bad argument @ 'dbQuery' [Expected db-connection at argument 1, got nil]
+[2020-06-28 17:31:05] vehicles restarted successfully
+[2020-06-28 17:36:11] restart: Requested by Console
+[2020-06-28 17:36:11] restart: Resource restarting...
+[2020-06-28 17:36:11] Stopping vehicles
+[2020-06-28 17:36:11] Resource 'vehicles' changed, reloading and starting
+[2020-06-28 17:36:11] Starting vehicles
+[2020-06-28 17:36:11] vehicles restarted successfully
+[2020-06-28 17:42:06] restart: Requested by Console
+[2020-06-28 17:42:06] restart: Resource restarting...
+[2020-06-28 17:42:06] Stopping vehicles
+[2020-06-28 17:42:06] Resource 'vehicles' changed, reloading and starting
+[2020-06-28 17:42:06] Starting vehicles
+[2020-06-28 17:42:06] vehicles restarted successfully
+[2020-06-28 17:43:02] restart: Requested by Console
+[2020-06-28 17:43:02] restart: Resource restarting...
+[2020-06-28 17:43:02] Stopping vehicles
+[2020-06-28 17:43:02] Starting vehicles
+[2020-06-28 17:43:02] vehicles restarted successfully
+[2020-06-28 17:47:16] restart: Requested by Console
+[2020-06-28 17:47:16] restart: Resource restarting...
+[2020-06-28 17:47:16] Stopping vehicles
+[2020-06-28 17:47:16] Resource 'vehicles' changed, reloading and starting
+[2020-06-28 17:47:16] Starting vehicles
+[2020-06-28 17:47:16] vehicles restarted successfully
+[2020-06-28 17:47:37] restart: Requested by Console
+[2020-06-28 17:47:37] restart: Resource restarting...
+[2020-06-28 17:47:37] Stopping vehicles
+[2020-06-28 17:47:37] Starting vehicles
+[2020-06-28 17:47:37] vehicles restarted successfully
+[2020-06-28 17:47:37] WARNING: vehicles\vehicles.lua:53: dbExec failed; (1) near "SEZ": syntax error
+[2020-06-28 17:47:55] restart: Requested by Console
+[2020-06-28 17:47:55] restart: Resource restarting...
+[2020-06-28 17:47:55] Stopping vehicles
+[2020-06-28 17:47:55] Resource 'vehicles' changed, reloading and starting
+[2020-06-28 17:47:55] Starting vehicles
+[2020-06-28 17:47:55] vehicles restarted successfully
+[2020-06-28 17:47:55] WARNING: vehicles\vehicles.lua:53: dbExec failed; (1) near "SEZ": syntax error
+[2020-06-28 17:48:04] stop: Requested by Console
+[2020-06-28 17:48:04] stop: Resource stopping
+[2020-06-28 17:48:04] Stopping vehicles
+[2020-06-28 17:48:11] start: Requested by Console
+[2020-06-28 17:48:11] Starting vehicles
+[2020-06-28 17:48:11] start: Resource 'vehicles' started
+[2020-06-28 17:48:32] restart: Requested by Console
+[2020-06-28 17:48:32] restart: Resource restarting...
+[2020-06-28 17:48:32] Stopping vehicles
+[2020-06-28 17:48:32] Starting vehicles
+[2020-06-28 17:48:32] vehicles restarted successfully
+[2020-06-28 17:48:57] restart: Requested by Console
+[2020-06-28 17:48:57] restart: Resource restarting...
+[2020-06-28 17:48:57] Stopping vehicles
+[2020-06-28 17:48:57] Starting vehicles
+[2020-06-28 17:48:57] vehicles restarted successfully
+[2020-06-28 17:49:53] Server stopped!
+[2020-06-28 17:49:53] Stopping resources.....
+[2020-06-28 17:49:53] ERROR: vehicles\vehicles.lua:46: exports: Call to non-running server resource (db) [string "?"]
+[2020-06-28 17:49:53] WARNING: vehicles\vehicles.lua:53: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]
+[2020-06-28 17:49:53] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : teszt123
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..MTASA 1.5.7/mods/deathmatch/logs/server.log
+= Maximum players  : 10
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-06-28 22:22:30] Resources: 3 loaded, 0 failed
+[2020-06-28 22:22:30] Starting resources......
+[2020-06-28 22:22:30] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-06-28 22:22:30] Server started and is ready to accept connections!
+[2020-06-28 22:22:30] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-06-28 22:22:30] Type 'help' for a list of commands.
+[2020-06-28 22:22:30] Querying MTA master server... success! (Auto detected IP:77.110.130.125)
+[2020-06-28 22:24:04] Server minclientversion is now 1.5.7-9.20447.0
+[2020-06-28 22:24:04] CONNECT: AndrasKollega connected (IP: 127.0.0.1  Serial: 5CA85CAD1F8C73BBF6399A40003656E3  Version: 1.5.7-9.20447.3)
+[2020-06-28 22:24:05] JOIN: AndrasKollega joined the game (IP: 127.0.0.1)
+[2020-06-28 22:24:13] WARNING: vehicles\vehicles.lua:9: dbExec failed; (1) SQL logic error
+[2020-06-28 22:24:13] ERROR: vehicles\vehicles.lua:17: attempt to index upvalue 'vehicle' (a userdata value)
+[2020-06-28 22:24:48] restart: Requested by Console
+[2020-06-28 22:24:48] restart: Resource restarting...
+[2020-06-28 22:24:48] Stopping vehicles
+[2020-06-28 22:24:48] Starting vehicles
+[2020-06-28 22:24:48] vehicles restarted successfully
+[2020-06-28 22:35:32] restart: Requested by Console
+[2020-06-28 22:35:32] restart: Resource restarting...
+[2020-06-28 22:35:32] Stopping vehicles
+[2020-06-28 22:35:32] Resource 'vehicles' changed, reloading and starting
+[2020-06-28 22:35:32] Starting vehicles
+[2020-06-28 22:35:32] vehicles restarted successfully
+[2020-06-28 22:35:38] WARNING: vehicles\vehicles.lua:11: dbExec failed; (1) table vehicles has no column named rotation_x
+[2020-06-28 22:35:38] ERROR: vehicles\vehicles.lua:19: attempt to index local 'vehicle' (a nil value)
+[2020-06-28 22:35:53] restart: Requested by Console
+[2020-06-28 22:35:53] restart: Resource restarting...
+[2020-06-28 22:35:53] Stopping vehicles
+[2020-06-28 22:35:53] Starting vehicles
+[2020-06-28 22:35:53] vehicles restarted successfully
+[2020-06-28 22:35:53] WARNING: vehicles\vehicles.lua:54: dbExec failed; (1) no such column: rotation_x
+[2020-06-28 22:36:18] restart: Requested by Console
+[2020-06-28 22:36:18] restart: Resource restarting...
+[2020-06-28 22:36:18] Stopping vehicles
+[2020-06-28 22:36:18] Resource 'vehicles' changed, reloading and starting
+[2020-06-28 22:36:18] Starting vehicles
+[2020-06-28 22:36:18] vehicles restarted successfully
+[2020-06-28 22:36:21] WARNING: vehicles\vehicles.lua:9: dbExec failed; (1) table vehicles has no column named rotation_x
+[2020-06-28 22:36:21] ERROR: vehicles\vehicles.lua:17: attempt to index local 'vehicle' (a nil value)
+[2020-06-28 22:36:40] restart: Requested by Console
+[2020-06-28 22:36:40] restart: Resource restarting...
+[2020-06-28 22:36:40] Stopping vehicles
+[2020-06-28 22:36:40] Starting vehicles
+[2020-06-28 22:36:40] vehicles restarted successfully
+[2020-06-28 22:36:40] WARNING: vehicles\vehicles.lua:50: dbExec failed; (1) no such column: rotation_x
+[2020-06-28 22:37:18] Server stopped!
+[2020-06-28 22:37:18] Stopping resources.....
+[2020-06-28 22:37:18] ERROR: vehicles\vehicles.lua:42: exports: Call to non-running server resource (db) [string "?"]
+[2020-06-28 22:37:18] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : teszt123
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..MTASA 1.5.7/mods/deathmatch/logs/server.log
+= Maximum players  : 10
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-06-28 22:37:21] Resources: 3 loaded, 0 failed
+[2020-06-28 22:37:21] Starting resources......
+[2020-06-28 22:37:21] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-06-28 22:37:21] Server started and is ready to accept connections!
+[2020-06-28 22:37:21] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-06-28 22:37:21] Type 'help' for a list of commands.
+[2020-06-28 22:37:21] Querying MTA master server... success! (Auto detected IP:77.110.130.125)
+[2020-06-28 22:37:33] Server minclientversion is now 1.5.7-9.20447.0
+[2020-06-28 22:37:33] CONNECT: AndrasKollega connected (IP: 127.0.0.1  Serial: 5CA85CAD1F8C73BBF6399A40003656E3  Version: 1.5.7-9.20447.3)
+[2020-06-28 22:37:33] JOIN: AndrasKollega joined the game (IP: 127.0.0.1)
+[2020-06-28 22:37:39] WARNING: vehicles\vehicles.lua:9: dbExec failed; (1) table vehicles has no column named rotation_x
+[2020-06-28 22:37:39] ERROR: vehicles\vehicles.lua:17: attempt to index local 'vehicle' (a nil value)
+[2020-06-28 22:38:06] restart: Requested by Console
+[2020-06-28 22:38:06] restart: Resource restarting...
+[2020-06-28 22:38:06] Stopping vehicles
+[2020-06-28 22:38:06] Starting vehicles
+[2020-06-28 22:38:06] vehicles restarted successfully
+[2020-06-28 22:38:06] WARNING: vehicles\vehicles.lua:50: dbExec failed; (1) no such column: rotation_x
+[2020-06-28 22:39:31] * Syntax: restart <resource-name>
+[2020-06-28 22:39:33] Server stopped!
+[2020-06-28 22:39:33] Stopping resources.....
+[2020-06-28 22:39:33] ERROR: vehicles\vehicles.lua:42: exports: Call to non-running server resource (db) [string "?"]
+[2020-06-28 22:39:33] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : teszt123
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..MTASA 1.5.7/mods/deathmatch/logs/server.log
+= Maximum players  : 10
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-06-28 22:39:37] Resources: 3 loaded, 0 failed
+[2020-06-28 22:39:37] Starting resources......
+[2020-06-28 22:39:37] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-06-28 22:39:37] Server started and is ready to accept connections!
+[2020-06-28 22:39:37] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-06-28 22:39:37] Type 'help' for a list of commands.
+[2020-06-28 22:39:37] Querying MTA master server... success! (Auto detected IP:77.110.130.125)
+[2020-06-28 22:39:44] Server minclientversion is now 1.5.7-9.20447.0
+[2020-06-28 22:39:44] CONNECT: AndrasKollega connected (IP: 127.0.0.1  Serial: 5CA85CAD1F8C73BBF6399A40003656E3  Version: 1.5.7-9.20447.3)
+[2020-06-28 22:39:44] JOIN: AndrasKollega joined the game (IP: 127.0.0.1)
+[2020-06-28 22:39:47] WARNING: vehicles\vehicles.lua:9: dbExec failed; (1) table vehicles has no column named rotation_x
+[2020-06-28 22:39:47] ERROR: vehicles\vehicles.lua:17: attempt to index local 'vehicle' (a nil value)
+[2020-06-28 22:40:07] Server stopped!
+[2020-06-28 22:40:07] Stopping resources.....
+[2020-06-28 22:40:07] ERROR: vehicles\vehicles.lua:42: exports: Call to non-running server resource (db) [string "?"]
+[2020-06-28 22:40:07] WARNING: vehicles\vehicles.lua:50: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]
+[2020-06-28 22:40:07] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : teszt123
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..MTASA 1.5.7/mods/deathmatch/logs/server.log
+= Maximum players  : 10
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-06-28 22:40:31] Resources: 3 loaded, 0 failed
+[2020-06-28 22:40:31] Starting resources......
+[2020-06-28 22:40:31] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-06-28 22:40:31] Server started and is ready to accept connections!
+[2020-06-28 22:40:31] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-06-28 22:40:31] Type 'help' for a list of commands.
+[2020-06-28 22:40:32] Querying MTA master server... success! (Auto detected IP:77.110.130.125)
+[2020-06-28 22:40:38] Server minclientversion is now 1.5.7-9.20447.0
+[2020-06-28 22:40:38] CONNECT: AndrasKollega connected (IP: 127.0.0.1  Serial: 5CA85CAD1F8C73BBF6399A40003656E3  Version: 1.5.7-9.20447.3)
+[2020-06-28 22:40:38] JOIN: AndrasKollega joined the game (IP: 127.0.0.1)
+[2020-06-28 22:40:41] WARNING: vehicles\vehicles.lua:9: dbExec failed; (1) table vehicles has no column named rotation_x
+[2020-06-28 22:40:41] ERROR: vehicles\vehicles.lua:17: attempt to index local 'vehicle' (a nil value)
+[2020-06-28 22:40:55] restart: Requested by Console
+[2020-06-28 22:40:55] restart: Resource restarting...
+[2020-06-28 22:40:55] Stopping vehicles
+[2020-06-28 22:40:55] Starting vehicles
+[2020-06-28 22:40:55] vehicles restarted successfully
+[2020-06-28 22:40:55] WARNING: vehicles\vehicles.lua:50: dbExec failed; (1) no such column: rotation_x
+[2020-06-28 22:42:20] Server stopped!
+[2020-06-28 22:42:20] Stopping resources.....
+[2020-06-28 22:42:20] ERROR: vehicles\vehicles.lua:42: exports: Call to non-running server resource (db) [string "?"]
+[2020-06-28 22:42:20] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : teszt123
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..MTASA 1.5.7/mods/deathmatch/logs/server.log
+= Maximum players  : 10
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-06-28 22:42:24] Resources: 3 loaded, 0 failed
+[2020-06-28 22:42:24] Starting resources......
+[2020-06-28 22:42:24] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-06-28 22:42:24] Server started and is ready to accept connections!
+[2020-06-28 22:42:24] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-06-28 22:42:24] Type 'help' for a list of commands.
+[2020-06-28 22:42:24] Querying MTA master server... success! (Auto detected IP:77.110.130.125)
+[2020-06-28 22:42:33] Server minclientversion is now 1.5.7-9.20447.0
+[2020-06-28 22:42:33] CONNECT: AndrasKollega connected (IP: 127.0.0.1  Serial: 5CA85CAD1F8C73BBF6399A40003656E3  Version: 1.5.7-9.20447.3)
+[2020-06-28 22:42:33] JOIN: AndrasKollega joined the game (IP: 127.0.0.1)
+[2020-06-28 22:42:38] WARNING: vehicles\vehicles.lua:9: dbExec failed; (1) table vehicles has no column named rotation_x
+[2020-06-28 22:42:38] ERROR: vehicles\vehicles.lua:17: attempt to index local 'vehicle' (a nil value)
+[2020-06-28 22:44:03] restart: Requested by Console
+[2020-06-28 22:44:03] restart: Resource restarting...
+[2020-06-28 22:44:03] Stopping vehicles
+[2020-06-28 22:44:03] Starting vehicles
+[2020-06-28 22:44:03] vehicles restarted successfully
+[2020-06-28 22:44:03] WARNING: vehicles\vehicles.lua:50: dbExec failed; (1) no such column: rotation_x
+[2020-06-28 22:45:53] Server stopped!
+[2020-06-28 22:45:53] Stopping resources.....
+[2020-06-28 22:45:53] ERROR: vehicles\vehicles.lua:42: exports: Call to non-running server resource (db) [string "?"]
+[2020-06-28 22:45:53] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : teszt123
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..MTASA 1.5.7/mods/deathmatch/logs/server.log
+= Maximum players  : 10
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-06-28 22:59:18] Resources: 3 loaded, 0 failed
+[2020-06-28 22:59:18] Starting resources......
+[2020-06-28 22:59:18] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-06-28 22:59:18] Server started and is ready to accept connections!
+[2020-06-28 22:59:18] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-06-28 22:59:18] Type 'help' for a list of commands.
+[2020-06-28 22:59:18] Querying MTA master server... success! (Auto detected IP:77.110.130.125)
+[2020-06-28 22:59:42] Server minclientversion is now 1.5.7-9.20447.0
+[2020-06-28 22:59:42] CONNECT: AndrasKollega connected (IP: 127.0.0.1  Serial: 5CA85CAD1F8C73BBF6399A40003656E3  Version: 1.5.7-9.20447.3)
+[2020-06-28 22:59:44] JOIN: AndrasKollega joined the game (IP: 127.0.0.1)
+[2020-06-28 23:00:08] restart: Requested by Console
+[2020-06-28 23:00:08] restart: Resource restarting...
+[2020-06-28 23:00:08] Stopping vehicles
+[2020-06-28 23:00:08] Starting vehicles
+[2020-06-28 23:00:08] vehicles restarted successfully
+[2020-06-28 23:00:41] Server stopped!
+[2020-06-28 23:00:41] Stopping resources.....
+[2020-06-28 23:00:41] ERROR: vehicles\vehicles.lua:42: exports: Call to non-running server resource (db) [string "?"]
+[2020-06-28 23:00:41] WARNING: vehicles\vehicles.lua:50: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]
+[2020-06-28 23:00:41] Closing SQLite3 database
