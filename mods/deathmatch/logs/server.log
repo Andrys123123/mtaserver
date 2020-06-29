@@ -938,3 +938,9 @@ debuguptime              sfakelag
 [2020-06-29 22:01:29] players restarted successfully
 [2020-06-29 22:01:32] LOGIN: (Everyone) AndrasKollega successfully logged in as 'test' (IP: 127.0.0.1  Serial: 5CA85CAD1F8C73BBF6399A40003656E3)
 [2020-06-29 22:01:34] LOGOUT: AndrasKollega logged out as 'test'
+[2020-06-29 22:11:30] QUIT: AndrasKollega left the game [Quit]
+[2020-06-29 22:11:34] Server stopped!
+[2020-06-29 22:11:34] Stopping resources.....
+[2020-06-29 22:11:34] ERROR: vehicles\vehicles.lua:42: exports: Call to non-running server resource (db) [string "?"]
+[2020-06-29 22:11:34] WARNING: vehicles\vehicles.lua:50: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]
+[2020-06-29 22:11:34] Closing SQLite3 database
