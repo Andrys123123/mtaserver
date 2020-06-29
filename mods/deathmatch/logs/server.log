@@ -519,3 +519,370 @@
 [2020-06-28 23:00:41] ERROR: vehicles\vehicles.lua:42: exports: Call to non-running server resource (db) [string "?"]
 [2020-06-28 23:00:41] WARNING: vehicles\vehicles.lua:50: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]
 [2020-06-28 23:00:41] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : teszt123
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..MTASA 1.5.7/mods/deathmatch/logs/server.log
+= Maximum players  : 10
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-06-29 11:28:33] Resources: 3 loaded, 0 failed
+[2020-06-29 11:28:33] Starting resources....
+[2020-06-29 11:28:33] SCRIPT ERROR: players\authentication.lua:3: 'then' expected near 'ot'
+[2020-06-29 11:28:33] ERROR: Loading script failed: players\authentication.lua:3: 'then' expected near 'ot'
+[2020-06-29 11:28:33] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-06-29 11:28:33] Server started and is ready to accept connections!
+[2020-06-29 11:28:33] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-06-29 11:28:33] Type 'help' for a list of commands.
+[2020-06-29 11:28:34] Querying MTA master server... success! (Auto detected IP:77.110.128.149)
+[2020-06-29 11:28:40] Server minclientversion is now 1.5.7-9.20447.0
+[2020-06-29 11:28:40] CONNECT: AndrasKollega connected (IP: 192.168.0.103  Serial: 5CA85CAD1F8C73BBF6399A40003656E3  Version: 1.5.7-9.20447.3)
+[2020-06-29 11:28:41] JOIN: AndrasKollega joined the game (IP: 192.168.0.103)
+[2020-06-29 11:29:07] restart: Requested by Console
+[2020-06-29 11:29:07] restart: Resource restarting...
+[2020-06-29 11:29:07] Stopping players
+[2020-06-29 11:29:07] Starting players
+[2020-06-29 11:29:07] SCRIPT ERROR: players\authentication.lua:3: 'then' expected near 'ot'
+[2020-06-29 11:29:07] ERROR: Loading script failed: players\authentication.lua:3: 'then' expected near 'ot'
+[2020-06-29 11:29:07] players restarted successfully
+[2020-06-29 11:29:19] restart: Requested by Console
+[2020-06-29 11:29:19] restart: Resource restarting...
+[2020-06-29 11:29:19] Stopping players
+[2020-06-29 11:29:19] Resource 'players' changed, reloading and starting
+[2020-06-29 11:29:19] Starting players
+[2020-06-29 11:29:19] SCRIPT ERROR: players\authentication.lua:3: 'then' expected near 'not'
+[2020-06-29 11:29:19] ERROR: Loading script failed: players\authentication.lua:3: 'then' expected near 'not'
+[2020-06-29 11:29:19] players restarted successfully
+[2020-06-29 11:29:37] restart: Requested by Console
+[2020-06-29 11:29:37] restart: Resource restarting...
+[2020-06-29 11:29:37] Stopping players
+[2020-06-29 11:29:37] Resource 'players' changed, reloading and starting
+[2020-06-29 11:29:37] Starting players
+[2020-06-29 11:29:37] players restarted successfully
+[2020-06-29 11:41:45] restart: Requested by Console
+[2020-06-29 11:41:45] restart: Resource restarting...
+[2020-06-29 11:41:45] Stopping players
+[2020-06-29 11:41:45] Resource 'players' changed, reloading and starting
+[2020-06-29 11:41:45] Starting players
+[2020-06-29 11:41:45] players restarted successfully
+[2020-06-29 11:42:28] ERROR: players\authentication.lua:5: attempt to call field 'leng' (a nil value)
+[2020-06-29 11:43:04] restart: Requested by Console
+[2020-06-29 11:43:04] restart: Resource restarting...
+[2020-06-29 11:43:04] Stopping players
+[2020-06-29 11:43:04] Resource 'players' changed, reloading and starting
+[2020-06-29 11:43:04] Starting players
+[2020-06-29 11:43:04] players restarted successfully
+[2020-06-29 11:43:07] ERROR: players\authentication.lua:5: attempt to compare nil with number
+[2020-06-29 11:44:09] restart: Requested by Console
+[2020-06-29 11:44:09] restart: Resource restarting...
+[2020-06-29 11:44:09] Stopping players
+[2020-06-29 11:44:09] Starting players
+[2020-06-29 11:44:09] players restarted successfully
+[2020-06-29 11:44:28] ERROR: players\authentication.lua:5: attempt to compare nil with number
+[2020-06-29 11:49:37] restart: Requested by Console
+[2020-06-29 11:49:37] restart: Resource restarting...
+[2020-06-29 11:49:37] Stopping players
+[2020-06-29 11:49:37] Resource 'players' changed, reloading and starting
+[2020-06-29 11:49:37] Starting players
+[2020-06-29 11:49:37] players restarted successfully
+[2020-06-29 11:50:02] ERROR: players\authentication.lua:5: attempt to compare nil with number
+[2020-06-29 11:53:40] restart: Requested by Console
+[2020-06-29 11:53:40] restart: Resource restarting...
+[2020-06-29 11:53:40] Stopping players
+[2020-06-29 11:53:40] Starting players
+[2020-06-29 11:53:40] players restarted successfully
+[2020-06-29 11:54:02] restart: Requested by Console
+[2020-06-29 11:54:02] restart: Resource restarting...
+[2020-06-29 11:54:02] Stopping vehicles
+[2020-06-29 11:54:02] Starting vehicles
+[2020-06-29 11:54:02] vehicles restarted successfully
+[2020-06-29 11:54:03] restart: Requested by Console
+[2020-06-29 11:54:03] restart: Resource restarting...
+[2020-06-29 11:54:03] Stopping players
+[2020-06-29 11:54:04] Starting players
+[2020-06-29 11:54:04] players restarted successfully
+[2020-06-29 12:00:31] Server stopped!
+[2020-06-29 12:00:31] Stopping resources.....
+[2020-06-29 12:00:31] ERROR: vehicles\vehicles.lua:42: exports: Call to non-running server resource (db) [string "?"]
+[2020-06-29 12:00:31] WARNING: vehicles\vehicles.lua:50: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]
+[2020-06-29 12:00:31] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : teszt123
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..MTASA 1.5.7/mods/deathmatch/logs/server.log
+= Maximum players  : 10
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-06-29 12:01:56] Resources: 3 loaded, 0 failed
+[2020-06-29 12:01:56] Starting resources......
+[2020-06-29 12:01:56] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-06-29 12:01:56] Server started and is ready to accept connections!
+[2020-06-29 12:01:56] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-06-29 12:01:56] Type 'help' for a list of commands.
+[2020-06-29 12:01:56] Querying MTA master server... success! (Auto detected IP:77.110.128.149)
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : teszt123
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..MTASA 1.5.7/mods/deathmatch/logs/server.log
+= Maximum players  : 10
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-06-29 12:02:03] Resources: 3 loaded, 0 failed
+[2020-06-29 12:02:03] Starting resources......
+[2020-06-29 12:02:03] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-06-29 12:02:03] Server started and is ready to accept connections!
+[2020-06-29 12:02:03] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-06-29 12:02:03] Type 'help' for a list of commands.
+[2020-06-29 12:02:04] Querying MTA master server... success! (Auto detected IP:77.110.128.149)
+[2020-06-29 12:02:15] Server minclientversion is now 1.5.7-9.20447.0
+[2020-06-29 12:02:15] CONNECT: AndrasKollega connected (IP: 127.0.0.1  Serial: 5CA85CAD1F8C73BBF6399A40003656E3  Version: 1.5.7-9.20447.3)
+[2020-06-29 12:02:16] JOIN: AndrasKollega joined the game (IP: 127.0.0.1)
+[2020-06-29 12:02:19] ERROR: players\authentication.lua:5: attempt to compare nil with number
+[2020-06-29 12:13:06] restart: Requested by Console
+[2020-06-29 12:13:06] restart: Resource restarting...
+[2020-06-29 12:13:06] Stopping players
+[2020-06-29 12:13:06] Resource 'players' changed, reloading and starting
+[2020-06-29 12:13:06] Starting players
+[2020-06-29 12:13:06] players restarted successfully
+[2020-06-29 12:13:21] LOGIN: AndrasKollega tried to log in as 'AndrasKollega' with an invalid password (IP: 127.0.0.1  Serial: 5CA85CAD1F8C73BBF6399A40003656E3)
+[2020-06-29 12:13:36] LOGIN: (Everyone) AndrasKollega successfully logged in as 'AndrasKollega' (IP: 127.0.0.1  Serial: 5CA85CAD1F8C73BBF6399A40003656E3)
+[2020-06-29 12:13:52] LOGOUT: AndrasKollega logged out as 'AndrasKollega'
+[2020-06-29 12:14:29] restart: Requested by Console
+[2020-06-29 12:14:29] restart: Resource restarting...
+[2020-06-29 12:14:29] Stopping players
+[2020-06-29 12:14:29] Resource 'players' changed, reloading and starting
+[2020-06-29 12:14:29] Starting players
+[2020-06-29 12:14:29] players restarted successfully
+[2020-06-29 12:14:40] WARNING: players\authentication.lua:56: Bad argument @ 'passwordVerify' [Expected string at argument 2, got boolean]
+[2020-06-29 12:15:57] restart: Requested by Console
+[2020-06-29 12:15:57] restart: Resource restarting...
+[2020-06-29 12:15:57] Stopping players
+[2020-06-29 12:15:57] Resource 'players' changed, reloading and starting
+[2020-06-29 12:15:57] Starting players
+[2020-06-29 12:15:57] players restarted successfully
+[2020-06-29 12:16:43] QUIT: AndrasKollega left the game [Quit]
+[2020-06-29 12:16:48] Server stopped!
+[2020-06-29 12:16:48] Stopping resources.....
+[2020-06-29 12:16:48] ERROR: vehicles\vehicles.lua:42: exports: Call to non-running server resource (db) [string "?"]
+[2020-06-29 12:16:48] WARNING: vehicles\vehicles.lua:50: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]
+[2020-06-29 12:16:48] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : teszt123
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..MTASA 1.5.7/mods/deathmatch/logs/server.log
+= Maximum players  : 10
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-06-29 12:16:51] Resources: 3 loaded, 0 failed
+[2020-06-29 12:16:51] Starting resources......
+[2020-06-29 12:16:51] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-06-29 12:16:51] Server started and is ready to accept connections!
+[2020-06-29 12:16:51] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-06-29 12:16:51] Type 'help' for a list of commands.
+[2020-06-29 12:16:51] Querying MTA master server... success! (Auto detected IP:77.110.128.149)
+[2020-06-29 12:16:58] Server minclientversion is now 1.5.7-9.20447.0
+[2020-06-29 12:16:58] CONNECT: AndrasKollega connected (IP: 127.0.0.1  Serial: 5CA85CAD1F8C73BBF6399A40003656E3  Version: 1.5.7-9.20447.3)
+[2020-06-29 12:16:58] JOIN: AndrasKollega joined the game (IP: 127.0.0.1)
+[2020-06-29 12:18:38] LOGIN: (Everyone) AndrasKollega successfully logged in as 'AndrasKollega' (IP: 127.0.0.1  Serial: 5CA85CAD1F8C73BBF6399A40003656E3)
+[2020-06-29 12:18:46] LOGOUT: AndrasKollega logged out as 'AndrasKollega'
+[2020-06-29 12:23:23] restart: Requested by Console
+[2020-06-29 12:23:23] restart: Resource restarting...
+[2020-06-29 12:23:23] Stopping players
+[2020-06-29 12:23:23] Resource 'players' changed, reloading and starting
+[2020-06-29 12:23:23] Starting players
+[2020-06-29 12:23:23] players restarted successfully
+[2020-06-29 12:23:29] Available commands:
+
+start                    stop                     stopall                  
+restart                  refresh                  refreshall               
+list                     info                     upgrade                  
+check                    say                      teamsay                  
+msg                      me                       nick                     
+login                    logout                   chgmypass                
+addaccount               delaccount               chgpass                  
+shutdown                 aexec                    whois                    
+debugscript              help                     loadmodule               
+unloadmodule             reloadmodule             ver                      
+sver                     ase                      openports                
+debugdb                  reloadbans               aclrequest               
+authserial               reloadacl                debugjoinflood           
+debuguptime              sfakelag                 
+[2020-06-29 12:23:32] == Resource list ==
+[2020-06-29 12:23:32] db                     RUNNING   (0 dependents)
+[2020-06-29 12:23:32] players                RUNNING   (0 dependents)
+[2020-06-29 12:23:32] vehicles               RUNNING   (0 dependents)
+[2020-06-29 12:23:32] Resources: 3 loaded, 0 failed, 3 running
+[2020-06-29 12:23:40] Available commands:
+
+start                    stop                     stopall                  
+restart                  refresh                  refreshall               
+list                     info                     upgrade                  
+check                    say                      teamsay                  
+msg                      me                       nick                     
+login                    logout                   chgmypass                
+addaccount               delaccount               chgpass                  
+shutdown                 aexec                    whois                    
+debugscript              help                     loadmodule               
+unloadmodule             reloadmodule             ver                      
+sver                     ase                      openports                
+debugdb                  reloadbans               aclrequest               
+authserial               reloadacl                debugjoinflood           
+debuguptime              sfakelag                 
+[2020-06-29 12:23:42] restart: Requested by Console
+[2020-06-29 12:23:42] restart: Resource restarting...
+[2020-06-29 12:23:42] Stopping players
+[2020-06-29 12:23:42] Starting players
+[2020-06-29 12:23:42] players restarted successfully
+[2020-06-29 12:32:16] restart: Requested by Console
+[2020-06-29 12:32:16] restart: Resource restarting...
+[2020-06-29 12:32:16] Stopping players
+[2020-06-29 12:32:16] Resource 'players' changed, reloading and starting
+[2020-06-29 12:32:16] Starting players
+[2020-06-29 12:32:16] players restarted successfully
+[2020-06-29 12:32:27] ERROR: players\authentication.lua:5: attempt to compare nil with number
+[2020-06-29 12:36:29] Server stopped!
+[2020-06-29 12:36:29] Stopping resources.....
+[2020-06-29 12:36:29] ERROR: vehicles\vehicles.lua:42: exports: Call to non-running server resource (db) [string "?"]
+[2020-06-29 12:36:29] WARNING: vehicles\vehicles.lua:50: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]
+[2020-06-29 12:36:29] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : teszt123
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..MTASA 1.5.7/mods/deathmatch/logs/server.log
+= Maximum players  : 10
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-06-29 12:36:32] Resources: 3 loaded, 0 failed
+[2020-06-29 12:36:32] Starting resources......
+[2020-06-29 12:36:32] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-06-29 12:36:32] Server started and is ready to accept connections!
+[2020-06-29 12:36:32] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-06-29 12:36:32] Type 'help' for a list of commands.
+[2020-06-29 12:36:32] Querying MTA master server... success! (Auto detected IP:77.110.128.149)
+[2020-06-29 12:36:41] Server minclientversion is now 1.5.7-9.20447.0
+[2020-06-29 12:36:41] CONNECT: AndrasKollega connected (IP: 192.168.0.103  Serial: 5CA85CAD1F8C73BBF6399A40003656E3  Version: 1.5.7-9.20447.3)
+[2020-06-29 12:36:41] JOIN: AndrasKollega joined the game (IP: 192.168.0.103)
+[2020-06-29 12:36:51] ERROR: players\authentication.lua:5: attempt to compare nil with number
+[2020-06-29 12:37:25] restart: Requested by Console
+[2020-06-29 12:37:25] restart: Resource restarting...
+[2020-06-29 12:37:25] Stopping players
+[2020-06-29 12:37:25] Resource 'players' changed, reloading and starting
+[2020-06-29 12:37:25] Starting players
+[2020-06-29 12:37:25] players restarted successfully
+[2020-06-29 12:37:39] WARNING: players\authentication.lua:56: Bad argument @ 'passwordVerify' [Expected string at argument 2, got boolean]
+[2020-06-29 12:39:09] restart: Requested by Console
+[2020-06-29 12:39:09] restart: Resource restarting...
+[2020-06-29 12:39:09] Stopping players
+[2020-06-29 12:39:09] Resource 'players' changed, reloading and starting
+[2020-06-29 12:39:09] Starting players
+[2020-06-29 12:39:09] SCRIPT ERROR: players\authentication.lua:6: unexpected symbol near 'end'
+[2020-06-29 12:39:09] ERROR: Loading script failed: players\authentication.lua:6: unexpected symbol near 'end'
+[2020-06-29 12:39:09] players restarted successfully
+[2020-06-29 12:39:12] restart: Requested by Console
+[2020-06-29 12:39:12] restart: Resource restarting...
+[2020-06-29 12:39:12] Stopping players
+[2020-06-29 12:39:12] Starting players
+[2020-06-29 12:39:12] SCRIPT ERROR: players\authentication.lua:6: unexpected symbol near 'end'
+[2020-06-29 12:39:12] players restarted successfully
+[2020-06-29 12:39:15] ERROR: Loading script failed: players\authentication.lua:6: unexpected symbol near 'end'
+[2020-06-29 12:40:10] restart: Requested by Console
+[2020-06-29 12:40:10] restart: Resource restarting...
+[2020-06-29 12:40:10] Stopping players
+[2020-06-29 12:40:10] Resource 'players' changed, reloading and starting
+[2020-06-29 12:40:10] Starting players
+[2020-06-29 12:40:10] SCRIPT ERROR: players\authentication.lua:4: '<name>' expected near '('
+[2020-06-29 12:40:10] ERROR: Loading script failed: players\authentication.lua:4: '<name>' expected near '('
+[2020-06-29 12:40:10] players restarted successfully
+[2020-06-29 12:40:20] restart: Requested by Console
+[2020-06-29 12:40:20] restart: Resource restarting...
+[2020-06-29 12:40:20] Stopping players
+[2020-06-29 12:40:20] Resource 'players' changed, reloading and starting
+[2020-06-29 12:40:20] Starting players
+[2020-06-29 12:40:20] players restarted successfully
+[2020-06-29 12:40:33] LOGIN: AndrasKollega tried to log in as 'AndrasKollega' with an invalid password (IP: 192.168.0.103  Serial: 5CA85CAD1F8C73BBF6399A40003656E3)
+[2020-06-29 12:40:41] WARNING: players\authentication.lua:55: Bad argument @ 'getAccountData' [Expected account at argument 1, got boolean]
+[2020-06-29 12:40:41] WARNING: players\authentication.lua:56: Bad argument @ 'passwordVerify' [Expected string at argument 2, got boolean]
+[2020-06-29 12:40:50] ERROR: While updating account with 'UPDATE accounts SET ip='', name='asd', password='4D7664A84F27BF313CCA619842224AD53B1ACD77712DB78B7885D14D2937CE6C05BF30ECBE518D13B95A0309F64361FA2', httppass='' WHERE id=3': database is locked.
+[2020-06-29 12:40:50] ERROR: While updating account with 'UPDATE userdata SET value='$2y$10$0FHelwJfwoktCCjvIgRnXO2KKmh3zVM1NTpb80kOUUCb7Fep8s7C.', type=4 WHERE userid=3 AND key='hashedPassword'': database is locked.
+[2020-06-29 12:41:23] restart: Requested by Console
+[2020-06-29 12:41:23] restart: Resource restarting...
+[2020-06-29 12:41:23] Stopping players
+[2020-06-29 12:41:23] Starting players
+[2020-06-29 12:41:23] players restarted successfully
+[2020-06-29 12:41:28] LOGIN: AndrasKollega tried to log in as 'asd' with an invalid password (IP: 192.168.0.103  Serial: 5CA85CAD1F8C73BBF6399A40003656E3)
+[2020-06-29 12:41:33] WARNING: players\authentication.lua:56: Bad argument @ 'passwordVerify' [Expected string at argument 2, got boolean]
+[2020-06-29 12:42:02] restart: Requested by Console
+[2020-06-29 12:42:02] restart: Resource restarting...
+[2020-06-29 12:42:02] Stopping players
+[2020-06-29 12:42:02] Starting players
+[2020-06-29 12:42:02] players restarted successfully
+[2020-06-29 12:42:21] WARNING: players\authentication.lua:56: Bad argument @ 'passwordVerify' [Expected string at argument 2, got boolean]
+[2020-06-29 12:42:47] restart: Requested by Console
+[2020-06-29 12:42:47] restart: Resource restarting...
+[2020-06-29 12:42:47] Stopping players
+[2020-06-29 12:42:47] Resource 'players' changed, reloading and starting
+[2020-06-29 12:42:47] Starting players
+[2020-06-29 12:42:47] players restarted successfully
+[2020-06-29 12:42:53] WARNING: players\authentication.lua:56: Passed unknown hash
+[2020-06-29 12:43:15] restart: Requested by Console
+[2020-06-29 12:43:15] restart: Resource restarting...
+[2020-06-29 12:43:15] Stopping players
+[2020-06-29 12:43:15] Resource 'players' changed, reloading and starting
+[2020-06-29 12:43:15] Starting players
+[2020-06-29 12:43:15] players restarted successfully
+[2020-06-29 12:43:17] WARNING: players\authentication.lua:56: Passed unknown hash
+[2020-06-29 12:43:43] Server stopped!
+[2020-06-29 12:43:43] Stopping resources.....
+[2020-06-29 12:43:43] ERROR: vehicles\vehicles.lua:42: exports: Call to non-running server resource (db) [string "?"]
+[2020-06-29 12:43:43] WARNING: vehicles\vehicles.lua:50: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]
+[2020-06-29 12:43:43] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : teszt123
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..MTASA 1.5.7/mods/deathmatch/logs/server.log
+= Maximum players  : 10
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-06-29 21:36:22] Resources: 3 loaded, 0 failed
+[2020-06-29 21:36:22] Starting resources......
+[2020-06-29 21:36:22] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-06-29 21:36:22] Server started and is ready to accept connections!
+[2020-06-29 21:36:22] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-06-29 21:36:22] Type 'help' for a list of commands.
+[2020-06-29 21:36:23] Querying MTA master server... success! (Auto detected IP:77.110.128.149)
