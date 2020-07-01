@@ -944,3 +944,279 @@ debuguptime              sfakelag
 [2020-06-29 22:11:34] ERROR: vehicles\vehicles.lua:42: exports: Call to non-running server resource (db) [string "?"]
 [2020-06-29 22:11:34] WARNING: vehicles\vehicles.lua:50: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]
 [2020-06-29 22:11:34] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : teszt123
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..MTASA 1.5.7/mods/deathmatch/logs/server.log
+= Maximum players  : 10
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-07-01 22:15:00] Compacting accounts database 'internal.db' ...
+[2020-07-01 22:15:00] Resources: 3 loaded, 0 failed
+[2020-07-01 22:15:00] Compacting database 'registry.db' ...
+[2020-07-01 22:15:00] Starting resources......
+[2020-07-01 22:15:01] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-07-01 22:15:01] Server started and is ready to accept connections!
+[2020-07-01 22:15:01] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-07-01 22:15:01] Type 'help' for a list of commands.
+[2020-07-01 22:15:02] Querying MTA master server... success! (Auto detected IP:77.110.128.149)
+[2020-07-01 22:15:51] Server minclientversion is now 1.5.7-9.20447.0
+[2020-07-01 22:15:51] CONNECT: AndrasKollega connected (IP: 127.0.0.1  Serial: 5CA85CAD1F8C73BBF6399A40003656E3  Version: 1.5.7-9.20447.3)
+[2020-07-01 22:15:53] JOIN: AndrasKollega joined the game (IP: 127.0.0.1)
+[2020-07-01 22:16:00] LOGIN: (Everyone) AndrasKollega successfully logged in as 'test' (IP: 127.0.0.1  Serial: 5CA85CAD1F8C73BBF6399A40003656E3)
+[2020-07-01 22:21:44] Server stopped!
+[2020-07-01 22:21:44] Stopping resources.....
+[2020-07-01 22:21:44] ERROR: vehicles\vehicles.lua:42: exports: Call to non-running server resource (db) [string "?"]
+[2020-07-01 22:21:44] WARNING: vehicles\vehicles.lua:50: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]
+[2020-07-01 22:21:44] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : teszt123
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..MTASA 1.5.7/mods/deathmatch/logs/server.log
+= Maximum players  : 10
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-07-01 22:38:46] ERROR: Error parsing acl.xml - Line 175: Error reading Attributes.
+[2020-07-01 22:38:47] Server stopped!
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : teszt123
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..MTASA 1.5.7/mods/deathmatch/logs/server.log
+= Maximum players  : 10
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-07-01 22:38:59] ERROR: Couldn't parse meta file for resource 'admin' [Line 2: Error reading Attributes.]
+[2020-07-01 22:38:59] Loading of resource 'admin' failed
+[2020-07-01 22:38:59] ERROR: Problem with resource: admin; Couldn't parse meta file for resource 'admin' [Line 2: Error reading Attributes.]
+[2020-07-01 22:38:59] Resources: 3 loaded, 1 failed
+[2020-07-01 22:38:59] Starting resources....
+[2020-07-01 22:38:59] ERROR: Unable to start resource admin; Couldn't parse meta file for resource 'admin' [Line 2: Error reading Attributes.]
+[2020-07-01 22:38:59] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-07-01 22:38:59] Server started and is ready to accept connections!
+[2020-07-01 22:38:59] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-07-01 22:38:59] Type 'help' for a list of commands.
+[2020-07-01 22:38:59] Querying MTA master server... success! (Auto detected IP:77.110.128.149)
+[2020-07-01 22:39:06] Server minclientversion is now 1.5.7-9.20447.0
+[2020-07-01 22:39:07] CONNECT: AndrasKollega connected (IP: 127.0.0.1  Serial: 5CA85CAD1F8C73BBF6399A40003656E3  Version: 1.5.7-9.20447.3)
+[2020-07-01 22:39:07] JOIN: AndrasKollega joined the game (IP: 127.0.0.1)
+[2020-07-01 22:40:01] Available commands:
+
+start                    stop                     stopall                  
+restart                  refresh                  refreshall               
+list                     info                     upgrade                  
+check                    say                      teamsay                  
+msg                      me                       nick                     
+login                    logout                   chgmypass                
+addaccount               delaccount               chgpass                  
+shutdown                 aexec                    whois                    
+debugscript              help                     loadmodule               
+unloadmodule             reloadmodule             ver                      
+sver                     ase                      openports                
+debugdb                  reloadbans               aclrequest               
+authserial               reloadacl                debugjoinflood           
+debuguptime              sfakelag                 
+[2020-07-01 22:40:04] == Resource list ==
+[2020-07-01 22:40:04] admin                  FAILED    (see info command for reason)
+[2020-07-01 22:40:04] db                     RUNNING   (0 dependents)
+[2020-07-01 22:40:04] players                RUNNING   (0 dependents)
+[2020-07-01 22:40:04] vehicles               RUNNING   (0 dependents)
+[2020-07-01 22:40:04] Resources: 3 loaded, 1 failed, 3 running
+[2020-07-01 22:40:14] == Details for resource 'admin' ==
+[2020-07-01 22:40:14] Status: Failed to load
+[2020-07-01 22:40:14] Included resources: 0
+[2020-07-01 22:40:14] Files: 0
+[2020-07-01 22:40:14] == End ==
+[2020-07-01 22:40:50] LOGIN: (Everyone) AndrasKollega successfully logged in as 'test' (IP: 127.0.0.1  Serial: 5CA85CAD1F8C73BBF6399A40003656E3)
+[2020-07-01 22:40:58] start: Requested by Console
+[2020-07-01 22:40:58] start: Resource is loaded, but has errors (Couldn't parse meta file for resource 'admin' [Line 2: Error reading Attributes.])
+[2020-07-01 22:41:33] start: Requested by Console
+[2020-07-01 22:41:33] start: Resource is loaded, but has errors (Couldn't parse meta file for resource 'admin' [Line 2: Error reading Attributes.])
+[2020-07-01 22:42:14] start: Requested by Console
+[2020-07-01 22:42:14] start: Resource is loaded, but has errors (Couldn't parse meta file for resource 'admin' [Line 2: Error reading Attributes.])
+[2020-07-01 22:42:16] Server stopped!
+[2020-07-01 22:42:16] Stopping resources.....
+[2020-07-01 22:42:16] ERROR: vehicles\vehicles.lua:42: exports: Call to non-running server resource (db) [string "?"]
+[2020-07-01 22:42:16] WARNING: vehicles\vehicles.lua:50: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]
+[2020-07-01 22:42:16] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : teszt123
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..MTASA 1.5.7/mods/deathmatch/logs/server.log
+= Maximum players  : 10
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-07-01 22:42:20] Resources: 4 loaded, 0 failed
+[2020-07-01 22:42:20] Starting resources....
+[2020-07-01 22:42:20] SCRIPT ERROR: admin\admin.lua:2: ')' expected near 'function'
+[2020-07-01 22:42:20] ERROR: Loading script failed: admin\admin.lua:2: ')' expected near 'function'
+[2020-07-01 22:42:20] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-07-01 22:42:20] Server started and is ready to accept connections!
+[2020-07-01 22:42:20] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-07-01 22:42:20] Type 'help' for a list of commands.
+[2020-07-01 22:42:20] Querying MTA master server... success! (Auto detected IP:77.110.128.149)
+[2020-07-01 22:42:25] start: Requested by Console
+[2020-07-01 22:42:25] start: Resource is already running
+[2020-07-01 22:42:34] Server minclientversion is now 1.5.7-9.20447.0
+[2020-07-01 22:42:34] CONNECT: AndrasKollega connected (IP: 127.0.0.1  Serial: 5CA85CAD1F8C73BBF6399A40003656E3  Version: 1.5.7-9.20447.3)
+[2020-07-01 22:42:34] JOIN: AndrasKollega joined the game (IP: 127.0.0.1)
+[2020-07-01 22:42:37] LOGIN: (Everyone) AndrasKollega successfully logged in as 'test' (IP: 127.0.0.1  Serial: 5CA85CAD1F8C73BBF6399A40003656E3)
+[2020-07-01 22:42:49] == Resource list ==
+[2020-07-01 22:42:49] admin                  RUNNING   (0 dependents)
+[2020-07-01 22:42:49] db                     RUNNING   (0 dependents)
+[2020-07-01 22:42:49] players                RUNNING   (0 dependents)
+[2020-07-01 22:42:49] vehicles               RUNNING   (0 dependents)
+[2020-07-01 22:42:49] Resources: 4 loaded, 0 failed, 4 running
+[2020-07-01 22:48:55] restart: Requested by Console
+[2020-07-01 22:48:57] restart: Resource restarting...
+[2020-07-01 22:48:57] Stopping admin
+[2020-07-01 22:48:59] Resource 'admin' changed, reloading and starting
+[2020-07-01 22:49:00] Starting admin
+[2020-07-01 22:49:01] SCRIPT ERROR: admin\admin.lua:2: ')' expected near 'function'
+[2020-07-01 22:49:01] ERROR: Loading script failed: admin\admin.lua:2: ')' expected near 'function'
+[2020-07-01 22:49:01] admin restarted successfully
+[2020-07-01 22:49:27] restart: Requested by Console
+[2020-07-01 22:49:27] restart: Resource restarting...
+[2020-07-01 22:49:27] Stopping admin
+[2020-07-01 22:49:27] Resource 'admin' changed, reloading and starting
+[2020-07-01 22:49:27] Starting admin
+[2020-07-01 22:49:27] admin restarted successfully
+[2020-07-01 22:49:30] ACL: admin: Object 'user.test' added to group 'Moderator'
+[2020-07-01 22:57:18] restart: Requested by Console
+[2020-07-01 22:57:18] restart: Resource restarting...
+[2020-07-01 22:57:18] Stopping admin
+[2020-07-01 22:57:18] Resource 'admin' changed, reloading and starting
+[2020-07-01 22:57:18] Starting admin
+[2020-07-01 22:57:18] admin restarted successfully
+[2020-07-01 23:02:25] restart: Requested by Console
+[2020-07-01 23:02:25] restart: Resource restarting...
+[2020-07-01 23:02:25] Stopping admin
+[2020-07-01 23:02:25] Resource 'admin' changed, reloading and starting
+[2020-07-01 23:02:25] Starting admin
+[2020-07-01 23:02:25] admin restarted successfully
+[2020-07-01 23:02:31] WARNING: admin\admin.lua:50: Bad argument @ 'aclSetRight' [Expected bool at argument 3, got string 'false']
+[2020-07-01 23:03:50] restart: Requested by Console
+[2020-07-01 23:03:50] restart: Resource restarting...
+[2020-07-01 23:03:50] Stopping admin
+[2020-07-01 23:03:50] Resource 'admin' changed, reloading and starting
+[2020-07-01 23:03:50] Starting admin
+[2020-07-01 23:03:50] admin restarted successfully
+[2020-07-01 23:03:58] ACL: admin: Right 'command.setrank' DISALLOW added in ACL 'Default'
+[2020-07-01 23:04:53] restart: Requested by Console
+[2020-07-01 23:04:53] restart: Resource restarting...
+[2020-07-01 23:04:53] Stopping admin
+[2020-07-01 23:04:53] Resource 'admin' changed, reloading and starting
+[2020-07-01 23:04:53] Starting admin
+[2020-07-01 23:04:53] admin restarted successfully
+[2020-07-01 23:05:18] ACL: admin: Right 'command.setrank' ALLOW added in ACL 'Admin'
+[2020-07-01 23:07:14] QUIT: AndrasKollega left the game [Quit]
+[2020-07-01 23:07:18] CONNECT: AndrasKollega connected (IP: 127.0.0.1  Serial: 5CA85CAD1F8C73BBF6399A40003656E3  Version: 1.5.7-9.20447.3)
+[2020-07-01 23:07:18] JOIN: AndrasKollega joined the game (IP: 127.0.0.1)
+[2020-07-01 23:07:28] restart: Requested by Console
+[2020-07-01 23:07:28] restart: Resource restarting...
+[2020-07-01 23:07:28] Stopping admin
+[2020-07-01 23:07:28] Starting admin
+[2020-07-01 23:07:28] admin restarted successfully
+[2020-07-01 23:07:33] LOGIN: (Everyone, Moderator) AndrasKollega successfully logged in as 'test' (IP: 127.0.0.1  Serial: 5CA85CAD1F8C73BBF6399A40003656E3)
+[2020-07-01 23:08:17] LOGOUT: AndrasKollega logged out as 'test'
+[2020-07-01 23:09:08] restart: Requested by Console
+[2020-07-01 23:09:08] restart: Resource restarting...
+[2020-07-01 23:09:08] Stopping admin
+[2020-07-01 23:09:08] Resource 'admin' changed, reloading and starting
+[2020-07-01 23:09:08] Starting admin
+[2020-07-01 23:09:08] admin restarted successfully
+[2020-07-01 23:09:21] LOGIN: (Everyone, Moderator) AndrasKollega successfully logged in as 'test' (IP: 127.0.0.1  Serial: 5CA85CAD1F8C73BBF6399A40003656E3)
+[2020-07-01 23:11:05] restart: Requested by Console
+[2020-07-01 23:11:05] restart: Resource restarting...
+[2020-07-01 23:11:05] Stopping admin
+[2020-07-01 23:11:05] Resource 'admin' changed, reloading and starting
+[2020-07-01 23:11:05] Starting admin
+[2020-07-01 23:11:05] admin restarted successfully
+[2020-07-01 23:11:23] LOGOUT: AndrasKollega logged out as 'test'
+[2020-07-01 23:11:30] LOGIN: (Everyone, Moderator) AndrasKollega successfully logged in as 'test' (IP: 127.0.0.1  Serial: 5CA85CAD1F8C73BBF6399A40003656E3)
+[2020-07-01 23:11:36] Server stopped!
+[2020-07-01 23:11:36] Stopping resources......
+[2020-07-01 23:11:36] ERROR: vehicles\vehicles.lua:42: exports: Call to non-running server resource (db) [string "?"]
+[2020-07-01 23:11:36] WARNING: vehicles\vehicles.lua:50: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]
+[2020-07-01 23:11:36] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : teszt123
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..MTASA 1.5.7/mods/deathmatch/logs/server.log
+= Maximum players  : 10
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-07-01 23:11:39] Resources: 4 loaded, 0 failed
+[2020-07-01 23:11:39] Starting resources.......
+[2020-07-01 23:11:39] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-07-01 23:11:39] Server started and is ready to accept connections!
+[2020-07-01 23:11:39] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-07-01 23:11:39] Type 'help' for a list of commands.
+[2020-07-01 23:11:39] Querying MTA master server... success! (Auto detected IP:77.110.128.149)
+[2020-07-01 23:11:56] == Resource list ==
+[2020-07-01 23:11:56] admin                  RUNNING   (0 dependents)
+[2020-07-01 23:11:56] db                     RUNNING   (0 dependents)
+[2020-07-01 23:11:56] players                RUNNING   (0 dependents)
+[2020-07-01 23:11:56] vehicles               RUNNING   (0 dependents)
+[2020-07-01 23:11:56] Resources: 4 loaded, 0 failed, 4 running
+[2020-07-01 23:12:00] restart: Requested by Console
+[2020-07-01 23:12:00] restart: Resource restarting...
+[2020-07-01 23:12:00] Stopping admin
+[2020-07-01 23:12:00] Starting admin
+[2020-07-01 23:12:00] admin restarted successfully
+[2020-07-01 23:12:08] Server minclientversion is now 1.5.7-9.20447.0
+[2020-07-01 23:12:08] CONNECT: AndrasKollega connected (IP: 127.0.0.1  Serial: 5CA85CAD1F8C73BBF6399A40003656E3  Version: 1.5.7-9.20447.3)
+[2020-07-01 23:12:08] JOIN: AndrasKollega joined the game (IP: 127.0.0.1)
+[2020-07-01 23:12:15] LOGIN: (Everyone, Admin) AndrasKollega successfully logged in as 'test' (IP: 127.0.0.1  Serial: 5CA85CAD1F8C73BBF6399A40003656E3)
+[2020-07-01 23:12:24] ACL: admin: Object 'user.test' removed from group 'Admin'
+[2020-07-01 23:12:24] ACL: admin: Object 'user.test' added to group 'Moderator'
+[2020-07-01 23:12:43] restart: Requested by Console
+[2020-07-01 23:12:43] restart: Resource restarting...
+[2020-07-01 23:12:43] Stopping admin
+[2020-07-01 23:12:43] Resource 'admin' changed, reloading and starting
+[2020-07-01 23:12:43] Starting admin
+[2020-07-01 23:12:43] admin restarted successfully
+[2020-07-01 23:13:07] ACL: admin: Right 'command.setrank' ALLOW added in ACL 'Moderator'
+[2020-07-01 23:13:10] ACL: admin: Object 'user.test' removed from group 'Moderator'
+[2020-07-01 23:13:10] ACL: admin: Object 'user.test' added to group 'Admin'
+[2020-07-01 23:13:31] ACL: admin: Right 'command.setrank' changed to DISALLOW in ACL 'Moderator'
+[2020-07-01 23:14:29] restart: Requested by Console
+[2020-07-01 23:14:29] restart: Resource restarting...
+[2020-07-01 23:14:29] Stopping admin
+[2020-07-01 23:14:29] Resource 'admin' changed, reloading and starting
+[2020-07-01 23:14:29] Starting admin
+[2020-07-01 23:14:29] admin restarted successfully
+[2020-07-01 23:15:50] Server stopped!
+[2020-07-01 23:15:51] Stopping resources......
+[2020-07-01 23:15:51] ERROR: vehicles\vehicles.lua:42: exports: Call to non-running server resource (db) [string "?"]
+[2020-07-01 23:15:51] WARNING: vehicles\vehicles.lua:50: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]
+[2020-07-01 23:15:51] Closing SQLite3 database

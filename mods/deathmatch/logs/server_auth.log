@@ -16,3 +16,12 @@
 [2020-06-29 22:00:41] LOGOUT: AndrasKollega logged out as 'test'
 [2020-06-29 22:01:32] LOGIN: (Everyone) AndrasKollega successfully logged in as 'test' (IP: 127.0.0.1  Serial: 5CA85CAD1F8C73BBF6399A40003656E3)
 [2020-06-29 22:01:34] LOGOUT: AndrasKollega logged out as 'test'
+[2020-07-01 22:16:00] LOGIN: (Everyone) AndrasKollega successfully logged in as 'test' (IP: 127.0.0.1  Serial: 5CA85CAD1F8C73BBF6399A40003656E3)
+[2020-07-01 22:40:50] LOGIN: (Everyone) AndrasKollega successfully logged in as 'test' (IP: 127.0.0.1  Serial: 5CA85CAD1F8C73BBF6399A40003656E3)
+[2020-07-01 22:42:37] LOGIN: (Everyone) AndrasKollega successfully logged in as 'test' (IP: 127.0.0.1  Serial: 5CA85CAD1F8C73BBF6399A40003656E3)
+[2020-07-01 23:07:33] LOGIN: (Everyone, Moderator) AndrasKollega successfully logged in as 'test' (IP: 127.0.0.1  Serial: 5CA85CAD1F8C73BBF6399A40003656E3)
+[2020-07-01 23:08:17] LOGOUT: AndrasKollega logged out as 'test'
+[2020-07-01 23:09:21] LOGIN: (Everyone, Moderator) AndrasKollega successfully logged in as 'test' (IP: 127.0.0.1  Serial: 5CA85CAD1F8C73BBF6399A40003656E3)
+[2020-07-01 23:11:23] LOGOUT: AndrasKollega logged out as 'test'
+[2020-07-01 23:11:30] LOGIN: (Everyone, Moderator) AndrasKollega successfully logged in as 'test' (IP: 127.0.0.1  Serial: 5CA85CAD1F8C73BBF6399A40003656E3)
+[2020-07-01 23:12:15] LOGIN: (Everyone, Admin) AndrasKollega successfully logged in as 'test' (IP: 127.0.0.1  Serial: 5CA85CAD1F8C73BBF6399A40003656E3)
