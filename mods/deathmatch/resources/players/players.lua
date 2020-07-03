@@ -1,13 +1,14 @@
--- when a player joins run some code
 
-addEventHandler('onPlayerJoin', root, function () 
-    -- spawn the player
-    spawnPlayer(source, 0, 0, 5)
 
-    -- fade their camera in
-    fadeCamera(source, true)
+setTime(12,0)
+setMinuteDuration(10000000000)
 
-    -- set the camera target to be the spawned player.
-    setCameraTarget(source, source)
+addCommandHandler('clearchat', function(player) 
+    for i = 1, 30 do 
+        outputChatBox(' ', player)
+    end 
+end, false, false)
 
+addEventHandler('onPlayerJoin', root, function() 
+    triggerClientEvent(source, 'login-menu:open', source)
 end)

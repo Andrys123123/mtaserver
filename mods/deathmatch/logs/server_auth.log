@@ -25,3 +25,6 @@
 [2020-07-01 23:11:23] LOGOUT: AndrasKollega logged out as 'test'
 [2020-07-01 23:11:30] LOGIN: (Everyone, Moderator) AndrasKollega successfully logged in as 'test' (IP: 127.0.0.1  Serial: 5CA85CAD1F8C73BBF6399A40003656E3)
 [2020-07-01 23:12:15] LOGIN: (Everyone, Admin) AndrasKollega successfully logged in as 'test' (IP: 127.0.0.1  Serial: 5CA85CAD1F8C73BBF6399A40003656E3)
+[2020-07-03 14:43:17] LOGIN: (Everyone, Admin) AndrasKollega successfully logged in as 'test' (IP: 127.0.0.1  Serial: 5CA85CAD1F8C73BBF6399A40003656E3)
+[2020-07-03 17:03:05] LOGIN: (Everyone, Admin) AndrasKollega successfully logged in as 'test' (IP: 127.0.0.1  Serial: 5CA85CAD1F8C73BBF6399A40003656E3)
+[2020-07-03 17:03:10] LOGOUT: AndrasKollega logged out as 'test'
